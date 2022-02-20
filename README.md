@@ -22,8 +22,8 @@ Convert the final 3rd list to an array using np.array() method and display the r
 ## PROGRAM:
 ```
 Program to multiply two arrays using numpy
-Developed by:   LOGESHWARI.P
-RegisterNumber: 21500746
+Developed by:   LATHIKA SUNDER
+RegisterNumber: 21001244
 
 import numpy as np  
 n=int(input())   
